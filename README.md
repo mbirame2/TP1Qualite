@@ -6,8 +6,8 @@ Creer un script en python qui crée un fichier excel, insére les données dynam
 
 ## La TEAM
 
-Birame MBOUP
-Mamadou SEME
-Oumou THIAM
-Meghane TAWATIEU
+Birame MBOUP |
+Mamadou SEME |
+Oumou THIAM |
+Meghane TAWATIEU 
 
